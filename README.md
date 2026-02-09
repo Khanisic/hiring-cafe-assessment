@@ -14,6 +14,8 @@ This repo contains a small data pipeline to clean a large list of job URLs, dedu
 - **Final outputs**:
   - `final_main_output.json` / `final_output.json` / `final_metadata/final_output*.json`: Large JSON files with enriched job records.
 
+*22,000+* Unique Jobs Scraped
+
 ### Requirements
 
 - **Node.js** (v18+ recommended).
